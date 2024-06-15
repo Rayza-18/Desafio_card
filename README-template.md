@@ -20,7 +20,7 @@ Ver os estados de hover e foco para elementos interativos
 
 
 Links
-URL da Solução: Adicione o URL da solução aqui
+URL da Solução: (https://desafio-card-one.vercel.app/)
 
 
 Meu Processo
